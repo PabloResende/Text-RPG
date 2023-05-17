@@ -27,13 +27,12 @@ bag =[
 base_player_life = '100'
 player_class = "Mage"
 player_damage = mage[1][0] + bag[0][1]
-print(player_damage)
 
 
 def player_attack():
     sum_damage =  slime_life - player_damage
     print(sum_damage)
-    return player_damage
+    # return player_damage
 
 #bag:
 
