@@ -1,2 +1,2 @@
 An experimental text RPG project 
-(in constant development)
+(in constant development) 
